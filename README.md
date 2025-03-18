@@ -3,7 +3,7 @@
 My name is Zhansaya, I am a Frontend developer. Welcome to my GitHub profile!
 
 🔭 **I’m currently working on BeyimTech**
-
+📫 **zhanszhn@gmail.com**
 🌱 **Skills and Technologies:**
 - React
 - Next.js
