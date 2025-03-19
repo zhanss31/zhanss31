@@ -8,7 +8,7 @@ My name is Zhansaya, I am a Frontend developer. Welcome to my GitHub profile!
 
 🌱 **Skills and Technologies:**
 - React
-- Next.js
+- Next.js, Angular
 - JavaScript / TypeScript
 - HTML, CSS (SCSS, Tailwind CSS)
 - State Managers: Redux (Redux Thunk) / Redux Toolkit
