@@ -2,7 +2,7 @@
 
 My name is Zhansaya, I am a Frontend developer. Welcome to my GitHub profile!
 
-🔭 **I’m currently working on BeyimTech**
+🔭 **I’m currently working on Blink**
 
 📫 **zhanszhn@gmail.com**
 
